@@ -1,0 +1,6 @@
+C:\Users\i3i\Documents\GitHub\lista-vetor\lista-vetor\ListaVetor\bin\Debug\ListaVetor.exe.config
+C:\Users\i3i\Documents\GitHub\lista-vetor\lista-vetor\ListaVetor\obj\Debug\ListaVetor.csprojResolveAssemblyReference.cache
+C:\Users\i3i\Documents\GitHub\lista-vetor\lista-vetor\ListaVetor\bin\Debug\ListaVetor.exe
+C:\Users\i3i\Documents\GitHub\lista-vetor\lista-vetor\ListaVetor\bin\Debug\ListaVetor.pdb
+C:\Users\i3i\Documents\GitHub\lista-vetor\lista-vetor\ListaVetor\obj\Debug\ListaVetor.exe
+C:\Users\i3i\Documents\GitHub\lista-vetor\lista-vetor\ListaVetor\obj\Debug\ListaVetor.pdb
