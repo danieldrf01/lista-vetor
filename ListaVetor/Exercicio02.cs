@@ -44,7 +44,7 @@ namespace ListaVetor
 
             Console.Clear();
 
-            Console.WriteLine("Nomes: " + nomes[0] + ", " + nomes[1] + ", " + nomes[2] + ", " + nomes[3] + ", " + nomes[4] + ", " + nomes[5] + ", " + nomes[6] + ", " + nomes[7] + ", " + nomes[8] + ", " + nomes[9]);
+            Console.WriteLine("Nomes: " + nomes[0] + ", " + nomes[1] + ", " + nomes[2] + ", " + nomes[3] + ", " + nomes[4] + ", " + nomes[5] + ", " + nomes[6] + ", " + nomes[7] + ", " + nomes[8] + ", " + nomes[9] );
 
 
 
